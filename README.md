@@ -1,1 +1,1 @@
-Initial manual
+Updated manual
